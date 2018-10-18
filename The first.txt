@@ -1,3 +1,5 @@
 print ("Hello, people!!!")
 
 name = input ("Как тебя зовут?")
+
+print ("Let's work", name)
